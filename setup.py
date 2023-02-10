@@ -61,7 +61,7 @@ install_requires = [
     'toronado==0.0.4',
     'typing==3.5.2.2',
     'uwsgi==2.0.10',
-    'ipython==3.1.0',
+    'ipython==8.10.0',
 ]
 
 setup(
